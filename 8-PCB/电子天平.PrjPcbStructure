@@ -1,0 +1,9 @@
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=ADC|SchDesignator=ADC|FileName=4_电子天平_ADC.SchDoc|SymbolType=Normal|RawFileName=4_电子天平_ADC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=Buzzer|SchDesignator=Buzzer|FileName=7_电子天平_Buzzer.SchDoc|SymbolType=Normal|RawFileName=7_电子天平_Buzzer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=ESP32|SchDesignator=ESP32|FileName=5_电子天平_ESP32.SchDoc|SymbolType=Normal|RawFileName=5_电子天平_ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=1_电子天平_MCU.SchDoc|SymbolType=Normal|RawFileName=1_电子天平_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=RS485&RS232|SchDesignator=RS485&RS232|FileName=6_电子天平_RS485&RS232.SchDoc|SymbolType=Normal|RawFileName=6_电子天平_RS485&RS232.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=电源|SchDesignator=电源|FileName=2_电子天平_电源.SchDoc|SymbolType=Normal|RawFileName=2_电子天平_电源.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=加密芯片|SchDesignator=加密芯片|FileName=3_电子天平_加密芯片.SchDoc|SymbolType=Normal|RawFileName=3_电子天平_加密芯片.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=0_电子天平.SchDoc|Designator=温度检测|SchDesignator=温度检测|FileName=8_电子天平_温度检测.SchDoc|SymbolType=Normal|RawFileName=8_电子天平_温度检测.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=0_电子天平.SchDoc

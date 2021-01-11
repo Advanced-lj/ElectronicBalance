@@ -1,0 +1,12 @@
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/port.c
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+electronicbalance\port.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stddef.h
+electronicbalance\port.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stdint.h
+electronicbalance\port.o: ../Core/Inc/FreeRTOSConfig.h
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+electronicbalance\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

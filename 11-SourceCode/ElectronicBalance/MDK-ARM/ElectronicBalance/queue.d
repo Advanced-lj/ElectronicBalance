@@ -1,0 +1,15 @@
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+electronicbalance\queue.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stdlib.h
+electronicbalance\queue.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\string.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+electronicbalance\queue.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stddef.h
+electronicbalance\queue.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stdint.h
+electronicbalance\queue.o: ../Core/Inc/FreeRTOSConfig.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+electronicbalance\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

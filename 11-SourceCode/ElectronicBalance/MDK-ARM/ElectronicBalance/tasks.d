@@ -1,0 +1,16 @@
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+electronicbalance\tasks.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stdlib.h
+electronicbalance\tasks.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\string.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+electronicbalance\tasks.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stddef.h
+electronicbalance\tasks.o: C:\Software\MDK_5.28a\ARM\ARMCC\Bin\..\include\stdint.h
+electronicbalance\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM0/portmacro.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+electronicbalance\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h
